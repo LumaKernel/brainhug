@@ -9,7 +9,7 @@ import (
 )
 
 
-const usage = `BrainHug - A Brain*uck Runner written in Go
+const usage = `BrainHug - A Brain*uck implementation written in Go
 Usage: brainhug <program> <input>
 `
 

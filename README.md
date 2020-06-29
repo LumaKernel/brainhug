@@ -1,4 +1,4 @@
-# BrainHug - Brain\*uck Interpreter written in Go
+# BrainHug - Brain\*uck implementaion written in Go
 
 ```
 go get ...
