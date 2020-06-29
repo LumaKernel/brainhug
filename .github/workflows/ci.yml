@@ -12,6 +12,5 @@ jobs:
           go-version: '^1.14.2'
       - name: go test
         run: |
-          go get -d ./...
           go test ./...
 
